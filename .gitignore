@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Build directories
+build/
+dist/
+bin/
+Debug/
+Release/
+
+# IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# 无扩展名的可执行文件, 用于测试
+test
